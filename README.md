@@ -1,0 +1,1 @@
+# ALR - 📽️ Autonomous Lecture Recorder 

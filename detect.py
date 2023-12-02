@@ -88,7 +88,7 @@ while True:
         print("nothing detected")
 
     # write recording
-    out.write(frame.astype('uint8'))
+    out.write(img.astype('uint8'))
     
     cv2.imshow('video',img)
     k = cv2.waitKey(30) & 0xff

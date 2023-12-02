@@ -16,7 +16,7 @@ pip install opencv-python
 pip3 install opencv-python
 ```
 
-3. Input the following in a Python file and run:
+3. Input the following in a Python file and run on [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/):
 
 ```
 import os
@@ -30,10 +30,10 @@ os.system("pip3 install pyserial")
 os.system("sudo apt install fswebcam")
 os.system("sudo apt install linux-tools-virtual hwdata")
 os.system("sudo update-alternatives --install /usr/local/bin/usbip usbip ls /usr/lib/linux-tools/*/usbip | tail -n1 20")
-os.system("sudo apt upgrade")
 ```
+> **_NOTE:_**  After installation may need to reboot/restart the Raspberry Pi
 
-3. Open the main.py using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and compile! 
+3. Open the main.py using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and run the [detect.py file](https://github.com/eric-prog/ALR/blob/main/detect.py)! 
 
 </br>
 

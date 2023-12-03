@@ -11,19 +11,10 @@ The Autonomous Lecture Recorder (ALR), can be placed in the front row, thus remo
 git clone https://github.com/eric-prog/ALR.git
 ```
 
-2. Navigate to the project in the terminal: 
-
-```
-sudo apt-get update    
-sudo apt-get upgrade
-pip install opencv-python
-pip3 install opencv-python
-```
-
-3. Run the [setup.py](https://github.com/eric-prog/ALR/blob/main/setup.py) file in [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) to install all dependencies!
+2. Run the [setup.py](https://github.com/eric-prog/ALR/blob/main/setup.py) file in [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) to install all dependencies!
 > **_NOTE:_**  After installation may need to reboot/restart the Raspberry Pi
 
-3. Open the main.py using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and run the [detect.py file](https://github.com/eric-prog/ALR/blob/main/detect.py)! 
+3. Open the [detect.py](https://github.com/eric-prog/ALR/blob/main/detect.py) using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and run the [detect.py file](https://github.com/eric-prog/ALR/blob/main/detect.py)! 
 
 </br>
 

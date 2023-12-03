@@ -14,7 +14,7 @@ git clone https://github.com/eric-prog/ALR.git
 2. Run the [setup.py](https://github.com/eric-prog/ALR/blob/main/setup.py) file in [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) to install all dependencies!
 > **_NOTE:_**  After installation may need to reboot/restart the Raspberry Pi
 
-3. Open the [detect.py](https://github.com/eric-prog/ALR/blob/main/detect.py) using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and run the [detect.py file](https://github.com/eric-prog/ALR/blob/main/detect.py)! 
+3. Open the [detect.py](https://github.com/eric-prog/ALR/blob/main/detect.py) using [Geany](https://raspberrytips.com/use-geany-on-raspberry-pi/) and run! 
 
 </br>
 
